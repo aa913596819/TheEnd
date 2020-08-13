@@ -1,0 +1,80 @@
+Base path: '/Applications/Unity/Unity.app/Contents', plugins path '/Applications/Unity/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=21596 outsize=36184 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16425 outsize=12347 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=9809 outsize=14537 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=14739 outsize=18930 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=15871 outsize=20755 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=4823 outsize=1473 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1667 outsize=1771 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1503 outsize=1776 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=3111 outsize=2803 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=40264 outsize=56589 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=52154 outsize=108369 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=53459 outsize=111045 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=3450 outsize=9668 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=22295 outsize=16579 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=9735 outsize=10545 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=7840 outsize=41619 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=6745 outsize=1375 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=6745 outsize=13470 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=10492 outsize=12384 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1558 outsize=1747 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=5006 outsize=8900 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=26542 outsize=18329 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=15750 outsize=30983 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16295 outsize=25020 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16295 outsize=57327 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16295 outsize=48294 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16295 outsize=53171 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16295 outsize=66663 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16295 outsize=52459 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16295 outsize=50112 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16295 outsize=49935 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=16295 outsize=65416 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=140611 outsize=330436 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=12177 outsize=2075 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2002 outsize=2317 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=10763 outsize=14159 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=7010 outsize=13541 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=16696 outsize=24706 ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=7919 outsize=8297 kw=DECALS_3RT _NORMALMAP_TANGENT_SPACE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
